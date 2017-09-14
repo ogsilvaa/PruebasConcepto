@@ -1,0 +1,20 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Capa1/bin/Debug
+/Capa2/bin/Debug
+/INterfaces/obj/Debug
+/InterfacesF/bin/Debug
+/Numeros/bin/Debug
+/Numeros/obj/Debug
+/InterfacesF/obj/Debug
+/Capa2/obj/Debug
+/Capa1/obj/Debug
+/packages
+/romanos/bin/Debug
+/romanos/obj/Debug
+/test/bin/Debug
+/test/obj/Debug
+/test/test.csproj.user
+/TestResults
